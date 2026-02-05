@@ -24,6 +24,6 @@ This dashboard helps hospital management:
 - Control operational costs
 
 -## DEMO VIDEO ##
-https://drive.google.com/file/d/1AVf35vbOsYNt9uiRwzWOACmzxSzuZlYl/view?usp=sharing
+https://drive.google.com/file/d/1uQQIAmyvnH5gWqCOnS9JHgU993Gug3dc/view?usp=sharing
 
-PowerBI service live link could not be shared due to microsoft tenant restrictions on personal email accounts. The complete interactive dashboard walkthrough is provided via DEMO VIDEO LINK
+PowerBI service live deployed link could not be shared due to microsoft tenant restrictions on personal email accounts. The complete interactive dashboard walkthrough is provided via DEMO VIDEO LINK
