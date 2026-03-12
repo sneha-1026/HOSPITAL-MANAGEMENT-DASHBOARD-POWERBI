@@ -1,29 +1,41 @@
-# HOSPITAL-MANAGEMENT-DASHBOARD-POWERBI
-POWER BI DASHBOARD FOR HOSPITAL OPERATIONS ANALYSIS
-project overview
-This project is a powerbi dashboard designed to analyze hospital operations and patient flow.
-it provides actionable insights for hospital administrators to improve efficiently and decision-making.
-Key Features
-- Total patient count and discharged patient count
-- Average length of stay
-- Bed occupancy rate
-- Readmission percentage
-- Department-wise and case-type-wise patient analysis
-- Cost analysis and doctor utilization
-- Interactive slicers and drill-down capability
+**Hospital Operations & Cost Analysis Dashboard**
+**Project Overview**
+This project presents a Hospital Operations and Cost Analysis Dashboard built using Microsoft Power BI.
+The dashboard converts raw hospital data into visual insights that help hospital management monitor patient flow, resource utilization, and treatment costs.
+The dataset used is a sample hospital dataset
+**Key Metrics & Purpose**
+**Average Length of Stay**
+-Measures the average number of days patients stay in the hospital.
+-This helps management evaluate treatment efficiency and optimize bed usage.
+ **Bed Occupancy Rate**
+-Shows how many hospital beds are currently occupied.
+-This helps hospitals understand whether their bed capacity is efficiently utilized.
+**Total Patient Count**
+-Indicates the total number of admitted patients, helping management understand patient volume and hospital workload.
+ **Readmission Percentage**
+-Tracks how many patients return after discharge.
+-This helps hospitals evaluate treatment effectiveness and patient recovery quality.
+**Doctor Utilization**
+-Shows the number of patients handled by each doctor.
+This helps identify workload distribution among doctors and ensures balanced resource allocation.
+**Department-wise Cost Analysis**
+-Analyzes treatment costs across departments.
+This helps management identify departments with higher operational costs and plan budgets accordingly.
+**Dashboard Features**
+-KPI cards for key hospital performance metrics
+-Department-wise cost analysis
+-Doctor utilization analysis
+-Bed type distribution
+-Patient outcome analysis
+-Interactive slicers and drill-down functionality
+**Tools Used**
+-Microsoft Power BI
+-DAX functions such as SUMX, AVERAGEX, COUNT, and DIVIDE
+**Project Goal** 
+The goal of this dashboard is to demonstrate how data visualization can support hospital management in making data-driven decisions by analyzing patient trends, resource usage, and treatment costs.
 
-Tools Used
-- Power BI Desktop
-- Microsoft Excel (dataset)
-- GitHub
- Business Impact
-This dashboard helps hospital management:
-- Monitor bed utilization
-- Optimize resource allocation
-- Track patient outcomes
-- Control operational costs
-
--## DEMO VIDEO ##
+**DEMO VIDEO**
 https://drive.google.com/file/d/1uQQIAmyvnH5gWqCOnS9JHgU993Gug3dc/view?usp=sharing
 
-PowerBI service live deployed link could not be shared due to microsoft tenant restrictions on personal email accounts. The complete interactive dashboard walkthrough is provided via DEMO VIDEO LINK
+* PowerBI service live deployed link could not be shared due to microsoft tenant restrictions on personal email accounts. The complete interactive dashboard walkthrough is provided via DEMO VIDEO LINK
+ 
