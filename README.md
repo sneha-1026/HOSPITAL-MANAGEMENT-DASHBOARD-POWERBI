@@ -35,7 +35,7 @@ This helps management identify departments with higher operational costs and pla
 The goal of this dashboard is to demonstrate how data visualization can support hospital management in making data-driven decisions by analyzing patient trends, resource usage, and treatment costs.
 
 **DEMO VIDEO**
-https://drive.google.com/file/d/1YWveCGE5TAY8UYPtNJbhlrsrKdHHnd8C/view?usp=sharing
+https://drive.google.com/file/d/1hRJJ1UejKQbhPTFDLbkj24HvKk3TaQV7/view?usp=sharing
 
 * PowerBI service live deployed link could not be shared due to microsoft tenant restrictions on personal email accounts. The complete interactive dashboard walkthrough is provided via DEMO VIDEO LINK
  
